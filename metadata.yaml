@@ -1,5 +1,5 @@
 _repo: The-Common-Objects-of-the-Country_54623
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Coleman, W. S. (William Stephen)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '36717'
     url: http://www.gutenberg.org/2009/agents/36717
+covers:
+- cover_type: archival
+  image_path: 54623-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, J. G. (John George)
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '8330'
     url: http://www.gutenberg.org/2009/agents/8330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54623#The-Common-Objects-of-the-Country
 gutenberg_issued: '2017-04-28'
 gutenberg_type: Text
 identifiers:
